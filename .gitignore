@@ -1,0 +1,5 @@
+#Ignore all hiden files
+.*
+#Ignore all hiden files except .gitignore and .index.html
+!.gitignore
+!.index.html
